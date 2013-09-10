@@ -1,4 +1,4 @@
 backlog
 =======
 
-Project Backlog's repository.
+The repository for Backlog Manager.
